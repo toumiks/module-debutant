@@ -22,8 +22,8 @@ try {
 // -- Début des exercices, vous pouvez modifier le fichier à partir d'ici
 // Chassez le bogue 0
 // Décommentez le code suivant pour faire l'exercice
-// let nomParc = "Le Royaume Magique";
-// console.log("Bienvenue au parc d'attractions " + nomparc);
+ let nomParc = "Le Royaume Magique";
+ console.log("Bienvenue au parc d'attractions " + nomParc);
 
 // Chassez le bogue 1
 // Décommentez le code suivant pour faire l'exercice
